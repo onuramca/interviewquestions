@@ -1,4 +1,4 @@
-package com.basturk.stringmanipulation;
+package main.java.com.basturk.stringmanipulation;
 
 import java.util.HashMap;
 import java.util.Map;
